@@ -1,0 +1,8 @@
+Vue3 New Default Recommendations
+
+Tooling: vue-cli => create-vate
+>> npm init vue@next
+
+IDE: Vetur => Volar
+
+State Management: Vuex => Pinia
